@@ -16,8 +16,8 @@ const defaultMJMLDefinition = {
   content: '',
   attributes: {
     direction: 'left',
-    color: 'blue',
-    'font-size': '10px',
+    color: 'red',
+    'font-size': '20px',
     'image-padding': 0,
     'image-src': null,
     'image-width': null,
